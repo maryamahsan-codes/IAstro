@@ -1,0 +1,10 @@
+SFR -0.845589635795769
+Stel. Mass 7.415
+Stel. Mass wtd. by Age 335500000.0
+Stel. Mass wtd. by Light 927150000.0
+Stel. Metalicity wtd. by Light 0.007782
+Stel. Metalicity wtd. by Mass 0.0072625
+No. Ionising Photons for H 51.489999999999995
+No. Ionising Photons for HeI 50.515
+No. Ionising Photons for HeII 48.59
+Nebular Contribution 0.8330308366566896
